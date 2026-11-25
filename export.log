@@ -1,0 +1,198 @@
+[01:31:57] [info] Source   : [4mhttps://make-effect-691221.framer.app/[24m
+[01:31:57] [info] Output   : [38;2;250;178;131mD:\framer[39m
+[01:31:57] [info] Platform : [38;2;250;178;131mFramer[39m
+[01:31:57] [info] DPR      : [38;2;250;178;131m1[39m
+[01:31:57] [info] Subpages : [38;2;127;216;143menabled[39m
+[01:31:57] [log] Output directory structure created
+[01:31:57] [log] Fetching SSR HTML from https://make-effect-691221.framer.app/
+[01:31:58] [ok] SSR HTML fetched (1124.6 KB)
+[01:31:58] [log] Launching headless Chromium...
+[01:32:00] [ok] Chromium launched
+[01:32:00] [log] Stealth hardening applied (Chrome 148.0.7778.97)
+[01:32:00] [log] Viewport set to 1440x900 at 1x DPR
+[01:32:00] [log] Blocking 8 tracking domains:
+[01:32:00] [log]   - sentry.io
+[01:32:00] [log]   - www.googletagmanager.com
+[01:32:00] [log]   - connect.facebook.net
+[01:32:00] [log]   - stats.g.doubleclick.net
+[01:32:00] [log]   - google-analytics.com
+[01:32:00] [log]   - events.framer.com
+[01:32:00] [log]   - api.framer.com
+[01:32:00] [log]   - collect.frameranalytics.com
+[01:32:00] [log] Network interception enabled
+[01:32:00] [info] Navigating to https://make-effect-691221.framer.app/
+[01:32:02] [ok] Document loaded; waiting for page content and resources
+[01:32:02] [log] Intercepted 47 resources, blocked 1 tracking requests, skipped 0 platform assets
+[01:32:02] [log] Checking DOM-based platform detection...
+[01:32:03] [log] Hydration content found: #main
+[01:32:14] [log] Waiting for font layout and response bodies
+[01:32:14] [log] Resources settled
+[01:32:14] [log] Captured HTML and CSSOM (1158.6 KB)
+[01:32:14] [ok] Captured 417 network resources total
+[01:32:14] [log]   CSS: 2 | JS: 355 | Images: 34 | Fonts: 4
+[01:32:14] [log] Scanning page for internal links...
+[01:32:14] [log] Found 24 sub-page links on the home page
+[01:32:14] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/materials
+[01:32:16] [log] Hydration content found: #main
+[01:32:23] [log] Waiting for font layout and response bodies
+[01:32:23] [log] Resources settled
+[01:32:23] [log]   Sub-page fetched: 212.0 KB
+[01:32:23] [log]   Saved: subpages/materials.html
+[01:32:23] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/projects
+[01:32:25] [log] Hydration content found: #main
+[01:32:32] [log] Waiting for font layout and response bodies
+[01:32:32] [log] Resources settled
+[01:32:32] [log]   Sub-page fetched: 200.2 KB
+[01:32:32] [log]   Saved: subpages/projects.html
+[01:32:32] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/about
+[01:32:34] [log] Hydration content found: #main
+[01:32:40] [log] Waiting for font layout and response bodies
+[01:32:40] [log] Resources settled
+[01:32:40] [log]   Sub-page fetched: 231.3 KB
+[01:32:40] [log]   Saved: subpages/about.html
+[01:32:40] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/roof-notes
+[01:32:42] [log] Hydration content found: #main
+[01:32:48] [log] Waiting for font layout and response bodies
+[01:32:48] [log] Resources settled
+[01:32:48] [log]   Sub-page fetched: 196.3 KB
+[01:32:48] [log]   Saved: subpages/roof-notes.html
+[01:32:48] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/contact
+[01:32:51] [log] Hydration content found: #main
+[01:32:58] [log] Waiting for font layout and response bodies
+[01:32:58] [log] Resources settled
+[01:32:58] [log]   Sub-page fetched: 213.6 KB
+[01:32:58] [log]   Saved: subpages/contact.html
+[01:32:58] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/services/roof-replacement
+[01:33:00] [log] Hydration content found: #main
+[01:33:06] [log] Waiting for font layout and response bodies
+[01:33:06] [log] Resources settled
+[01:33:06] [log]   Sub-page fetched: 254.2 KB
+[01:33:06] [log]   Saved: subpages/services_roof-replacement.html
+[01:33:06] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/services/roof-repair
+[01:33:09] [log] Hydration content found: #main
+[01:33:14] [log] Waiting for font layout and response bodies
+[01:33:14] [log] Resources settled
+[01:33:15] [log]   Sub-page fetched: 255.1 KB
+[01:33:15] [log]   Saved: subpages/services_roof-repair.html
+[01:33:15] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/services/storm-damage
+[01:33:17] [log] Hydration content found: #main
+[01:33:23] [log] Waiting for font layout and response bodies
+[01:33:23] [log] Resources settled
+[01:33:23] [log]   Sub-page fetched: 255.2 KB
+[01:33:23] [log]   Saved: subpages/services_storm-damage.html
+[01:33:23] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/services/roof-inspection
+[01:33:25] [log] Hydration content found: #main
+[01:33:31] [log] Waiting for font layout and response bodies
+[01:33:31] [log] Resources settled
+[01:33:31] [log]   Sub-page fetched: 255.1 KB
+[01:33:31] [log]   Saved: subpages/services_roof-inspection.html
+[01:33:31] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/services/gutters
+[01:33:34] [log] Hydration content found: #main
+[01:33:40] [log] Waiting for font layout and response bodies
+[01:33:40] [log] Resources settled
+[01:33:40] [log]   Sub-page fetched: 254.2 KB
+[01:33:40] [log]   Saved: subpages/services_gutters.html
+[01:33:40] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/services/ventilation-skylights
+[01:33:42] [log] Hydration content found: #main
+[01:33:49] [log] Waiting for font layout and response bodies
+[01:33:49] [log] Resources settled
+[01:33:49] [log]   Sub-page fetched: 255.1 KB
+[01:33:49] [log]   Saved: subpages/services_ventilation-skylights.html
+[01:33:49] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/estimate
+[01:33:50] [log] Hydration content found: #main
+[01:33:57] [log] Waiting for font layout and response bodies
+[01:33:57] [log] Resources settled
+[01:33:57] [log]   Sub-page fetched: 209.9 KB
+[01:33:57] [log]   Saved: subpages/estimate.html
+[01:33:57] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/projects/birch-row-tudor
+[01:34:01] [log] Hydration content found: #main
+[01:34:07] [log] Waiting for font layout and response bodies
+[01:34:07] [log] Resources settled
+[01:34:07] [log]   Sub-page fetched: 210.9 KB
+[01:34:07] [log]   Saved: subpages/projects_birch-row-tudor.html
+[01:34:07] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/projects/orchard-lane-farmhouse
+[01:34:09] [log] Hydration content found: #main
+[01:34:15] [log] Waiting for font layout and response bodies
+[01:34:15] [log] Resources settled
+[01:34:15] [log]   Sub-page fetched: 210.9 KB
+[01:34:15] [log]   Saved: subpages/projects_orchard-lane-farmhouse.html
+[01:34:15] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/projects/kestrel-heights-colonial
+[01:34:17] [log] Hydration content found: #main
+[01:34:24] [log] Waiting for font layout and response bodies
+[01:34:24] [log] Resources settled
+[01:34:24] [log]   Sub-page fetched: 210.9 KB
+[01:34:24] [log]   Saved: subpages/projects_kestrel-heights-colonial.html
+[01:34:24] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/projects/fenwick-craftsman
+[01:34:26] [log] Hydration content found: #main
+[01:34:32] [log] Waiting for font layout and response bodies
+[01:34:32] [log] Resources settled
+[01:34:32] [log]   Sub-page fetched: 210.9 KB
+[01:34:32] [log]   Saved: subpages/projects_fenwick-craftsman.html
+[01:34:32] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/projects/old-town-slate-cottage
+[01:34:34] [log] Hydration content found: #main
+[01:34:39] [log] Waiting for font layout and response bodies
+[01:34:39] [log] Resources settled
+[01:34:39] [log]   Sub-page fetched: 210.9 KB
+[01:34:39] [log]   Saved: subpages/projects_old-town-slate-cottage.html
+[01:34:39] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/roof-notes/hail-damage-from-the-ground
+[01:34:42] [log] Hydration content found: #main
+[01:34:48] [log] Waiting for font layout and response bodies
+[01:34:48] [log] Resources settled
+[01:34:48] [log]   Sub-page fetched: 194.2 KB
+[01:34:48] [log]   Saved: subpages/roof-notes_hail-damage-from-the-ground.html
+[01:34:48] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/roof-notes/what-should-be-on-a-roofing-quote
+[01:34:49] [log] Hydration content found: #main
+[01:34:57] [log] Waiting for font layout and response bodies
+[01:34:57] [log] Resources settled
+[01:34:57] [log]   Sub-page fetched: 194.2 KB
+[01:34:57] [log]   Saved: subpages/roof-notes_what-should-be-on-a-roofing-quote.html
+[01:34:57] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/roof-notes/autumn-roof-check
+[01:34:59] [log] Hydration content found: #main
+[01:35:05] [log] Waiting for font layout and response bodies
+[01:35:05] [log] Resources settled
+[01:35:05] [log]   Sub-page fetched: 194.2 KB
+[01:35:05] [log]   Saved: subpages/roof-notes_autumn-roof-check.html
+[01:35:05] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/privacy
+[01:35:09] [log] Hydration content found: #main
+[01:35:14] [log] Waiting for font layout and response bodies
+[01:35:14] [log] Resources settled
+[01:35:14] [log]   Sub-page fetched: 183.4 KB
+[01:35:14] [log]   Saved: subpages/privacy.html
+[01:35:14] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/terms
+[01:35:17] [log] Hydration content found: #main
+[01:35:22] [log] Waiting for font layout and response bodies
+[01:35:22] [log] Resources settled
+[01:35:22] [log]   Sub-page fetched: 183.4 KB
+[01:35:22] [log]   Saved: subpages/terms.html
+[01:35:22] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/accessibility
+[01:35:25] [log] Hydration content found: #main
+[01:35:29] [log] Waiting for font layout and response bodies
+[01:35:29] [log] Resources settled
+[01:35:29] [log]   Sub-page fetched: 183.4 KB
+[01:35:29] [log]   Saved: subpages/accessibility.html
+[01:35:29] [log]   Navigating to sub-page: https://make-effect-691221.framer.app/services
+[01:35:31] [log] Hydration content found: #main
+[01:35:38] [log] Waiting for font layout and response bodies
+[01:35:38] [log] Resources settled
+[01:35:38] [log]   Sub-page fetched: 207.8 KB
+[01:35:38] [log]   Saved: subpages/services.html
+[01:35:38] [ok] Sub-pages crawled: 24
+[01:35:39] [log] Browser closed
+[01:35:39] [ok] Queued 31 resource(s) declared in HTML but never requested
+[01:35:39] [log] Starting download of 576 assets and their CSS/HTML dependencies
+[01:35:43] [ok] Downloads complete: 848 succeeded, 454 from cache
+[01:35:45] [ok] Lazy-loaded chunks resolved: 2
+[01:35:45] [log] Starting HTML post-processing...
+[01:35:45] [log] HTML size: 1158.6 KB
+[01:35:45] [ok] Index HTML pipeline complete
+[01:36:02] [log] Rewrote URLs in 274 JS/CSS files
+[01:36:02] [log] Rewrote resources in 1 embedded HTML documents
+[01:36:04] [ok] Sub-pages linked to local assets: 24/24
+[01:36:04] [ok] Captured asset URLs rewritten to local paths
+[01:36:53] [ok] Formatted 374/374 JS/MJS files
+[01:36:53] [log] Writing index.html (1250.6 KB)...
+[01:36:53] [ok] index.html written
+[01:36:53] [log] serve.js written
+[01:36:53] [log] package.json written for serve.js
+[01:36:53] [ok] Output build complete
+[01:36:53] [ok] Export complete!
