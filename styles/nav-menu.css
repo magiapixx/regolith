@@ -1,0 +1,204 @@
+#main .framer-1yxfl7z-container.regolith-header-enhanced {
+  overflow: visible !important;
+  z-index: 1000 !important;
+}
+
+#main .framer-1yxfl7z-container .regolith-nav-source {
+  position: relative !important;
+  overflow: visible !important;
+  min-width: 48px;
+  flex: 0 0 auto !important;
+}
+
+.regolith-menu-toggle {
+  display: grid;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  padding: 0;
+  border: 0;
+  border-radius: 10px;
+  color: #fff;
+  background: transparent;
+  box-shadow: none;
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+  cursor: pointer;
+  z-index: 1002;
+}
+
+#main .framer-1yxfl7z-container > .regolith-menu-toggle {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+#main .framer-1yxfl7z-container.regolith-home-header > .regolith-menu-toggle {
+  top: 28px;
+  right: 32px;
+}
+
+.regolith-menu-toggle:focus-visible {
+  outline: 3px solid #fff;
+  outline-offset: 3px;
+}
+
+.regolith-menu-icon {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(2, 8px);
+  grid-template-rows: repeat(2, 8px);
+  place-content: center;
+  gap: 4px;
+  width: 20px;
+  height: 20px;
+}
+
+.regolith-menu-icon > span {
+  display: block;
+  width: 8px;
+  height: 8px;
+  border-radius: 1.5px;
+  background: currentColor;
+  transition: opacity 160ms ease;
+}
+
+.regolith-menu-icon::before,
+.regolith-menu-icon::after {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 24px;
+  height: 2px;
+  border-radius: 2px;
+  background: currentColor;
+  content: "";
+  opacity: 0;
+  transform: translate(-50%, -50%);
+  transition: opacity 160ms ease, transform 160ms ease;
+}
+
+.regolith-menu-toggle.is-open .regolith-menu-icon > span {
+  opacity: 0;
+}
+
+.regolith-menu-toggle.is-open .regolith-menu-icon::before {
+  opacity: 1;
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.regolith-menu-toggle.is-open .regolith-menu-icon::after {
+  opacity: 1;
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+.regolith-menu-panel[hidden] {
+  display: none !important;
+}
+
+.regolith-menu-panel {
+  position: absolute !important;
+  top: 60px !important;
+  right: 0 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: stretch !important;
+  justify-content: flex-start !important;
+  gap: 2px !important;
+  width: min(320px, calc(100vw - 32px)) !important;
+  max-width: calc(100vw - 32px) !important;
+  max-height: calc(100vh - 104px) !important;
+  height: auto !important;
+  min-height: 0 !important;
+  padding: 8px !important;
+  overflow-y: auto !important;
+  border: 1px solid rgba(255, 255, 255, 0.16) !important;
+  border-radius: 14px !important;
+  color: #fff !important;
+  background: rgba(18, 20, 23, 0.96) !important;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.3) !important;
+  -webkit-backdrop-filter: blur(18px);
+  backdrop-filter: blur(18px);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  z-index: 1001 !important;
+}
+
+.regolith-menu-panel.is-open {
+  display: flex !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+  transform: none !important;
+}
+
+.regolith-menu-panel > a,
+.regolith-menu-panel > [data-framer-name="Services"],
+.regolith-menu-panel [data-framer-name="Links"] > a {
+  display: flex !important;
+  align-items: center !important;
+  width: 100% !important;
+  min-height: 48px;
+  padding: 10px 12px !important;
+  border-radius: 8px !important;
+  color: #fff !important;
+  background: transparent !important;
+  text-shadow: none !important;
+  text-decoration: none !important;
+}
+
+.regolith-menu-panel a:hover,
+.regolith-menu-panel [data-framer-name="Services"]:hover,
+.regolith-menu-panel a:focus-visible,
+.regolith-menu-panel [data-framer-name="Services"]:focus-visible {
+  background: rgba(255, 255, 255, 0.12) !important;
+  outline: none;
+}
+
+.regolith-menu-panel p,
+.regolith-menu-panel svg {
+  color: #fff !important;
+  fill: #fff !important;
+  stroke: #fff !important;
+  text-shadow: none !important;
+}
+
+.regolith-menu-panel [data-framer-name="Space"],
+.regolith-menu-panel [data-framer-name="CTA Slot"],
+.regolith-phone-menu-panel > *:not([data-framer-name="Links"]) {
+  display: none !important;
+}
+
+.regolith-menu-panel.regolith-phone-menu-panel {
+  top: 56px !important;
+}
+
+#main .framer-1yxfl7z-container.regolith-home-header > .regolith-menu-panel {
+  top: 88px !important;
+  right: 32px !important;
+}
+
+@media (max-width: 809.98px) {
+  #main .framer-1yxfl7z-container.regolith-home-header > .regolith-menu-toggle {
+    top: 24px;
+    right: 28px;
+  }
+
+  #main .framer-1yxfl7z-container.regolith-home-header > .regolith-menu-panel {
+    top: 80px !important;
+    right: 28px !important;
+  }
+}
+
+.regolith-native-menu-button {
+  display: none !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .regolith-menu-icon > span,
+  .regolith-menu-icon::before,
+  .regolith-menu-icon::after {
+    transition: none;
+  }
+}
