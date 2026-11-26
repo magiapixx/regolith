@@ -6,7 +6,7 @@ function t(e, t) {
       { hash: `ds0hlf`, mediaQuery: `(min-width: 810px) and (max-width: 1199.98px)` },
       { hash: `vesj8t`, mediaQuery: `(max-width: 809.98px)` },
     ],
-    description: `Book a free roof inspection with Halden Roofing Co. Call (406) 555-0142, email hello@haldenroofing.example or visit the yard at 118 Tanner Road, Ashford. Storm line 24/7.`,
+    description: `Call (406) 555-0142 or email hello@refolith.com to discuss a home renovation in the Ashford Valley.`,
     elements: { sS2DVZt_w: `request` },
     robots: `max-image-preview:large`,
     serializationId: `framer-rvTWn`,

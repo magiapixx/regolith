@@ -1188,7 +1188,7 @@ function $() {
         nK4vtGlf7: { defaultValue: ``, title: `Name`, type: f.String },
         hNkU7h_u6: { preventLocalization: !1, title: `Slug`, type: f.String },
         tzq9NJ2hf: { defaultValue: ``, title: `Role`, type: f.String },
-        wylTAPIRT: { defaultValue: ``, title: `Since`, type: f.String },
+        wylTAPIRT: { defaultValue: ``, title: `Project`, type: f.String },
         kWUGHdIml: { title: `Photo`, type: f.ResponsiveImage },
         rU3PZye_g: { defaultValue: ``, displayTextArea: !0, title: `Bio`, type: f.String },
         createdAt: { title: `Created`, type: f.Date },

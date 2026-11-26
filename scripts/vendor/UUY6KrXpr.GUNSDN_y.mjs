@@ -6,11 +6,11 @@ function t(e, t) {
       { hash: `3ql9vm`, mediaQuery: `(min-width: 810px) and (max-width: 1199.98px)` },
       { hash: `7jcyvu`, mediaQuery: `(max-width: 809.98px)` },
     ],
-    description: `How Regolith Construction collects, uses, shares and protects personal information from inspection requests, jobs and this website.`,
+    description: `For questions about how Regolith Construction handles information shared through this website, contact hello@refolith.com.`,
     elements: {},
     robots: `max-image-preview:large`,
     serializationId: `framer-GloJv`,
-    title: `Privacy policy · Regolith Construction`,
+    title: `For questions about how Regolith Construction handles information shared through this website, contact hello@refolith.com.`,
     viewport: `width=device-width`,
   };
 }

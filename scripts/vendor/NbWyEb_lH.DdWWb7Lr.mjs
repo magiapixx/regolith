@@ -6,7 +6,7 @@ function t(e, t) {
       { hash: `ol4h8c`, mediaQuery: `(min-width: 810px) and (max-width: 1199.98px)` },
       { hash: `14qo1vz`, mediaQuery: `(max-width: 809.98px)` },
     ],
-    description: `Plain roofing advice from the Regolith crew: telling hail damage from wear, what should be on a roofing quote, and the 20-minute autumn roof check.`,
+    description: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
     elements: {},
     robots: `max-image-preview:large`,
     serializationId: `framer-2YoQT`,

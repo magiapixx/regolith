@@ -6,11 +6,11 @@ function t(e, t) {
       { hash: `6atxk8`, mediaQuery: `(min-width: 810px) and (max-width: 1199.98px)` },
       { hash: `swv00q`, mediaQuery: `(max-width: 809.98px)` },
     ],
-    description: `Terms of use for the Regolith Construction website: guide prices and the estimator, inspection requests and reports, storm response and warranty summaries.`,
+    description: `Website terms describe use of this site. Renovation scope, pricing, schedule, and responsibilities should be confirmed in a written agreement before work begins.`,
     elements: {},
     robots: `max-image-preview:large`,
     serializationId: `framer-uFVv0`,
-    title: `Terms of use · Regolith Construction`,
+    title: `Website terms describe use of this site. Renovation scope, pricing, schedule, and responsibilities should be confirmed in a written agreement before work begins.`,
     viewport: `width=device-width`,
   };
 }

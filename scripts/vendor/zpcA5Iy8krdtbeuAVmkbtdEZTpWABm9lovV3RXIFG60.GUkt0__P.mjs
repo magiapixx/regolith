@@ -357,7 +357,7 @@ function it() {
                                 },
                                 children: /*#__PURE__*/ c(R, {
                                   CGwlWG4ol: `Latest`,
-                                  FG3t9FWa8: `Regolith crew`,
+                                  FG3t9FWa8: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
                                   HBTbh9G8O: !0,
                                   height: `100%`,
                                   hMZ105swj: `3`,
@@ -367,10 +367,10 @@ function it() {
                                   MK178g8ug: `Written by`,
                                   mSN3imh79: `September 15, 2026`,
                                   nlQbxAcuC: !1,
-                                  OBv5F6rMT: `Written by the crew, from what we see on roofs every week. No sales pitch, and most of it you can do from the ground.`,
+                                  OBv5F6rMT: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
                                   oTs3glLJw: `Notes`,
                                   p7daXTSXv: !1,
-                                  pcZW_xPpm: `Estimate a replacement`,
+                                  pcZW_xPpm: `Discuss your project`,
                                   SgWelmIDH: `Discuss your project`,
                                   SRo9k93eF: `Practical advice for your home`,
                                   style: { width: `100%` },
@@ -380,7 +380,7 @@ function it() {
                                   width: `100%`,
                                   YDXaX92M1: `(Building notes)`,
                                   ZFZUX5Tw2: `By agreement`,
-                                  ZtLWbYge9: `Warranty`,
+                                  ZtLWbYge9: `Project terms`,
                                 }),
                               }),
                             }),
@@ -390,7 +390,7 @@ function it() {
                     }),
                     /*#__PURE__*/ c(m.section, {
                       className: `framer-d74rbn`,
-                      "data-framer-name": `All Roof Notes`,
+                      "data-framer-name": `All renovation advice`,
                       layout: N,
                       children: /*#__PURE__*/ s(`div`, {
                         className: `framer-1x9uyd8`,
@@ -834,7 +834,7 @@ function it() {
                                                                                                                 {
                                                                                                                   "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                                                                                 },
-                                                                                                              children: `Foreman · Crew 3`,
+                                                                                                              children: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
                                                                                                             }
                                                                                                           ),
                                                                                                       }
@@ -1203,7 +1203,7 @@ function it() {
                                   },
                                   children: /*#__PURE__*/ c(z, {
                                     c90VE0r4p: !0,
-                                    egt2DgeHC: `A free inspection covers everything in these notes and more, with a photo report within 24 hours.`,
+                                    egt2DgeHC: `A project estimate should describe the agreed scope, material choices, allowances, exclusions, and next steps. Discuss details for your home with the team.`,
                                     eWOxqccVh: `tel:+14065550142`,
                                     height: `100%`,
                                     id: `qlNXSRCNE`,
@@ -1215,7 +1215,7 @@ function it() {
                                     style: { width: `100%` },
                                     V_MeO9hxh: `Discuss your project`,
                                     variant: K(`V3cWFf9iM`),
-                                    VtZC0VDH4: `(Free inspection)`,
+                                    VtZC0VDH4: `Plan a home renovation`,
                                     width: `100%`,
                                     Y7gwfGTSN: Qe(
                                       {
@@ -1275,7 +1275,7 @@ function it() {
         `@media (max-width: 809.98px) { .framer-2YoQT.framer-1ajgior { width: 390px; } .framer-2YoQT .framer-43fmwi { padding: 123px 0px 0px 0px; } .framer-2YoQT .framer-1t5s4lp, .framer-2YoQT .framer-1x9uyd8 { padding: 0px 16px 0px 16px; } .framer-2YoQT .framer-d74rbn { padding: 64px 0px 64px 0px; } .framer-2YoQT .framer-by9vd6 { flex-direction: column; gap: 24px; padding: 0px 0px 41px 0px; } .framer-2YoQT .framer-992gfk { flex: none; width: 100%; } .framer-2YoQT .framer-1pum9lb { flex: none; height: min-content; width: 100%; } .framer-2YoQT .framer-1gciss3 { height: 40px; } .framer-2YoQT .framer-1bwxazl { gap: 16px; grid-template-columns: repeat(1, minmax(50px, 1fr)); } .framer-2YoQT .framer-1iaz4q2 { padding: 12px 8px 0px 8px; }}`,
       ]),
       ($ = re(tt, nt, `framer-2YoQT`)),
-      ($.displayName = `Roof notes`),
+      ($.displayName = `Renovation Notes`),
       ($.defaultProps = { height: 2892, width: 1200 }),
       ne(
         $,

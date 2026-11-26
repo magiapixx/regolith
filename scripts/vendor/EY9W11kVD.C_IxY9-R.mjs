@@ -1792,7 +1792,7 @@ function $() {
             schema: K,
           }),
         },
-        displayName: `Roof Notes`,
+        displayName: `Renovation Notes`,
         id: `e092a39b-c661-446b-a38e-576e07793413`,
       }),
       ee(Q, {

@@ -6,11 +6,11 @@ function t(e, t) {
       { hash: `1om8l5z`, mediaQuery: `(min-width: 810px) and (max-width: 1199.98px)` },
       { hash: `h1hloe`, mediaQuery: `(max-width: 809.98px)` },
     ],
-    description: `Roof replacement, repairs and leak tracing, storm and hail damage, free inspections, gutters, ventilation and skylights across the Ashford Valley. One crew, fixed written prices.`,
+    description: `Regolith Construction offers whole-home renovations, kitchen and bathroom updates, extensions, interior finishing, exterior improvements, and consultation.`,
     elements: {},
     robots: `max-image-preview:large`,
     serializationId: `framer-fIAu3`,
-    title: `Roofing services · Regolith Construction`,
+    title: `Home renovation services · Regolith Construction`,
     viewport: `width=device-width`,
   };
 }

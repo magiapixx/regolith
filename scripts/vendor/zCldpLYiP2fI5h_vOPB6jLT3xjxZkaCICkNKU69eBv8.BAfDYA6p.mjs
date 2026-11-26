@@ -327,7 +327,7 @@ function xn() {
         n();
         let { activeLocale: oe, contentLocale: l, setLocale: le } = Se(),
           u = xe(),
-          [d, f] = ue({ initialValue: `Leak`, parameterName: `issue` }),
+          [d, f] = ue({ initialValue: `Kitchen & bathroom update`, parameterName: `issue` }),
           [p, m] = ue({ initialValue: `slot1`, parameterName: `slot` }),
           [h, g] = fe({ initialValue: !1, parameterName: `sent` }),
           { style: he, className: x, layoutId: ge, variant: ye, ...S } = _n(e),
@@ -343,16 +343,16 @@ function xn() {
           je = pn(h),
           { activeVariantCallback: N, delay: Me } = be(void 0),
           Ne = N(async (...e) => {
-            f?.(`Leak`);
+            f?.(`Kitchen & bathroom update`);
           }),
           Pe = N(async (...e) => {
-            f?.(`Storm damage`);
+            f?.(`Exterior improvements`);
           }),
           Fe = N(async (...e) => {
-            f?.(`Replacement`);
+            f?.(`Whole-home renovation`);
           }),
           Ie = N(async (...e) => {
-            f?.(`Just a check`);
+            f?.(`Planning consultation`);
           }),
           Le = N(async (...e) => {
             m?.(`slot1`);
@@ -651,7 +651,7 @@ function xn() {
                                                     style: {
                                                       "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                     },
-                                                    children: `Office hours below · storm line 24/7`,
+                                                    children: `Planning your home project`,
                                                   }),
                                                 }),
                                                 className: `framer-5519yo`,
@@ -711,7 +711,7 @@ function xn() {
                                                       "--framer-text-color": `var(--token-69114513-f0b1-40e3-b0f0-b5943b0445f9)`,
                                                     },
                                                     children: /*#__PURE__*/ s(y, {
-                                                      href: `mailto:hello@haldenroofing.example`,
+                                                      href: `mailto:hello@refolith.com`,
                                                       motionChild: !0,
                                                       nodeId: `Fhi45X5gc`,
                                                       openInNewTab: !1,
@@ -721,7 +721,7 @@ function xn() {
                                                       children: /*#__PURE__*/ s(c.a, {
                                                         className: `framer-styles-preset-86p87r`,
                                                         "data-styles-preset": `jgWI_nY2K`,
-                                                        children: `hello@haldenroofing.example`,
+                                                        children: `hello@refolith.com`,
                                                       }),
                                                     }),
                                                   }),
@@ -773,7 +773,7 @@ function xn() {
                                                   style: {
                                                     "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                   },
-                                                  children: `Yard`,
+                                                  children: `Service area`,
                                                 }),
                                               }),
                                               className: `framer-1ypx64y`,
@@ -801,7 +801,7 @@ function xn() {
                                                       "--framer-line-height": `1.5529em`,
                                                       "--framer-text-color": `var(--token-69114513-f0b1-40e3-b0f0-b5943b0445f9)`,
                                                     },
-                                                    children: `118 Tanner Road, Ashford`,
+                                                    children: `Ashford Valley`,
                                                   }),
                                                 }),
                                                 className: `framer-8nylmv`,
@@ -879,7 +879,7 @@ function xn() {
                                                       "--framer-line-height": `1.5529em`,
                                                       "--framer-text-color": `var(--token-69114513-f0b1-40e3-b0f0-b5943b0445f9)`,
                                                     },
-                                                    children: `Mon–Fri 07:00–18:00 · Sat 08:00–13:00`,
+                                                    children: `Contact us to discuss scheduling`,
                                                   }),
                                                 }),
                                                 className: `framer-1a4s4z2`,
@@ -925,7 +925,7 @@ function xn() {
                                                   style: {
                                                     "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                   },
-                                                  children: `Storm line`,
+                                                  children: `Planning your home project`,
                                                 }),
                                               }),
                                               className: `framer-e0xlsz`,
@@ -964,7 +964,7 @@ function xn() {
                                                       children: /*#__PURE__*/ s(c.a, {
                                                         className: `framer-styles-preset-86p87r`,
                                                         "data-styles-preset": `jgWI_nY2K`,
-                                                        children: `24/7 on (406) 555-0142`,
+                                                        children: `Renovation planning`,
                                                       }),
                                                     }),
                                                   }),
@@ -985,7 +985,7 @@ function xn() {
                                                     style: {
                                                       "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                     },
-                                                    children: `Tarping within 24 hours`,
+                                                    children: `Renovation planning`,
                                                   }),
                                                 }),
                                                 className: `framer-1lx31h0`,
@@ -1045,7 +1045,7 @@ function xn() {
                                                         style: {
                                                           "--framer-text-color": `var(--token-69114513-f0b1-40e3-b0f0-b5943b0445f9)`,
                                                         },
-                                                        children: `Request a site visit`,
+                                                        children: `Discuss your project`,
                                                       }),
                                                     }),
                                                     className: `framer-14nkzgb`,
@@ -1210,7 +1210,7 @@ function xn() {
                                                             style: {
                                                               "--framer-text-color": `var(--token-69114513-f0b1-40e3-b0f0-b5943b0445f9)`,
                                                             },
-                                                            children: `What is going on?`,
+                                                            children: `What are you planning?`,
                                                           }),
                                                         }),
                                                         className: `framer-1s2v7hl`,
@@ -1238,9 +1238,9 @@ function xn() {
                                                                     height: `100%`,
                                                                     id: `KHqiCJiJv`,
                                                                     layoutId: `KHqiCJiJv`,
-                                                                    OTgweugJ9: `Leak`,
+                                                                    OTgweugJ9: `Kitchen & bathroom update`,
                                                                     style: { height: `100%` },
-                                                                    variant: q(Y(J(d, `Leak`), l)),
+                                                                    variant: q(Y(J(d, `Kitchen & bathroom update`), l)),
                                                                     width: `100%`,
                                                                   }),
                                                                 }),
@@ -1248,7 +1248,7 @@ function xn() {
                                                               /*#__PURE__*/ s(v, {
                                                                 className: `framer-scei2h`,
                                                                 defaultChecked: !0,
-                                                                defaultValue: `Leak`,
+                                                                defaultValue: `Kitchen & bathroom update`,
                                                                 inputName: `Issue`,
                                                                 type: `radio`,
                                                               }),
@@ -1270,10 +1270,10 @@ function xn() {
                                                                     height: `100%`,
                                                                     id: `BtMKLhpJc`,
                                                                     layoutId: `BtMKLhpJc`,
-                                                                    OTgweugJ9: `Storm damage`,
+                                                                    OTgweugJ9: `Exterior improvements`,
                                                                     style: { height: `100%` },
                                                                     variant: q(
-                                                                      Y(J(d, `Storm damage`), l)
+                                                                      Y(J(d, `Exterior improvements`), l)
                                                                     ),
                                                                     width: `100%`,
                                                                   }),
@@ -1282,7 +1282,7 @@ function xn() {
                                                               /*#__PURE__*/ s(v, {
                                                                 className: `framer-1o0vu14`,
                                                                 defaultChecked: !1,
-                                                                defaultValue: `Storm damage`,
+                                                                defaultValue: `Exterior improvements`,
                                                                 inputName: `Issue`,
                                                                 type: `radio`,
                                                               }),
@@ -1304,10 +1304,10 @@ function xn() {
                                                                     height: `100%`,
                                                                     id: `fmEUAelM8`,
                                                                     layoutId: `fmEUAelM8`,
-                                                                    OTgweugJ9: `Replacement`,
+                                                                    OTgweugJ9: `Whole-home renovation`,
                                                                     style: { height: `100%` },
                                                                     variant: q(
-                                                                      Y(J(d, `Replacement`), l)
+                                                                      Y(J(d, `Whole-home renovation`), l)
                                                                     ),
                                                                     width: `100%`,
                                                                   }),
@@ -1316,7 +1316,7 @@ function xn() {
                                                               /*#__PURE__*/ s(v, {
                                                                 className: `framer-abc9bq`,
                                                                 defaultChecked: !1,
-                                                                defaultValue: `Replacement`,
+                                                                defaultValue: `Whole-home renovation`,
                                                                 inputName: `Issue`,
                                                                 type: `radio`,
                                                               }),
@@ -1338,10 +1338,10 @@ function xn() {
                                                                     height: `100%`,
                                                                     id: `rJu0BZW9X`,
                                                                     layoutId: `rJu0BZW9X`,
-                                                                    OTgweugJ9: `Just a check`,
+                                                                    OTgweugJ9: `Planning consultation`,
                                                                     style: { height: `100%` },
                                                                     variant: q(
-                                                                      Y(J(d, `Just a check`), l)
+                                                                      Y(J(d, `Planning consultation`), l)
                                                                     ),
                                                                     width: `100%`,
                                                                   }),
@@ -1350,7 +1350,7 @@ function xn() {
                                                               /*#__PURE__*/ s(v, {
                                                                 className: `framer-vteq2p`,
                                                                 defaultChecked: !1,
-                                                                defaultValue: `Just a check`,
+                                                                defaultValue: `Planning consultation`,
                                                                 inputName: `Issue`,
                                                                 type: `radio`,
                                                               }),
@@ -1362,7 +1362,7 @@ function xn() {
                                                   }),
                                                   /*#__PURE__*/ o(c.div, {
                                                     className: `framer-k5c3w9`,
-                                                    "data-framer-name": `Preferred slot`,
+                                                    "data-framer-name": `Preferred timing`,
                                                     children: [
                                                       /*#__PURE__*/ s(w, {
                                                         __fromCanvasComponent: !0,
@@ -1374,7 +1374,7 @@ function xn() {
                                                             style: {
                                                               "--framer-text-color": `var(--token-69114513-f0b1-40e3-b0f0-b5943b0445f9)`,
                                                             },
-                                                            children: `Preferred slot`,
+                                                            children: `Preferred timing`,
                                                           }),
                                                         }),
                                                         className: `framer-1ahaeun`,
@@ -1413,7 +1413,7 @@ function xn() {
                                                                 className: `framer-18muf5p`,
                                                                 defaultChecked: !0,
                                                                 defaultValue: `Tue 29 · 11:30`,
-                                                                inputName: `Preferred slot`,
+                                                                inputName: `Preferred timing`,
                                                                 type: `radio`,
                                                               }),
                                                             ],
@@ -1445,7 +1445,7 @@ function xn() {
                                                                 className: `framer-144vy9o`,
                                                                 defaultChecked: !1,
                                                                 defaultValue: `Wed 30 · 08:00`,
-                                                                inputName: `Preferred slot`,
+                                                                inputName: `Preferred timing`,
                                                                 type: `radio`,
                                                               }),
                                                             ],
@@ -1477,7 +1477,7 @@ function xn() {
                                                                 className: `framer-gs8vuz`,
                                                                 defaultChecked: !1,
                                                                 defaultValue: `Thu 1 · 15:00`,
-                                                                inputName: `Preferred slot`,
+                                                                inputName: `Preferred timing`,
                                                                 type: `radio`,
                                                               }),
                                                             ],
@@ -1509,7 +1509,7 @@ function xn() {
                                                                 className: `framer-g238pv`,
                                                                 defaultChecked: !1,
                                                                 defaultValue: `Fri 2 · 11:30`,
-                                                                inputName: `Preferred slot`,
+                                                                inputName: `Preferred timing`,
                                                                 type: `radio`,
                                                               }),
                                                             ],
@@ -1544,7 +1544,7 @@ function xn() {
                                                             id: `sGrbMJNTA`,
                                                             layoutId: `sGrbMJNTA`,
                                                             QcXTGtqDc: Ve,
-                                                            QVtfb921k: `Request a visit`,
+                                                            QVtfb921k: `Send project enquiry`,
                                                             style: {
                                                               height: `100%`,
                                                               width: `100%`,
@@ -1577,7 +1577,7 @@ function xn() {
                                                           "--framer-line-height": `1.45em`,
                                                           "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                         },
-                                                        children: `We confirm every request by phone within two working hours, Monday to Saturday.`,
+                                                        children: `The project team will follow up to discuss your home and next steps.`,
                                                       }),
                                                     }),
                                                     className: `framer-1xqwxmp`,
@@ -1683,7 +1683,7 @@ function xn() {
                                                   layoutId: `BlaIzuJHs`,
                                                   name: `Form Source`,
                                                   source: `HLD-contact`,
-                                                  website: `Regolith Construction · halden-visuvate.framer.website`,
+                                                  website: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
                                                   width: `100%`,
                                                 }),
                                               }),
@@ -1740,7 +1740,7 @@ function xn() {
                                     oZndJFlUW: { variant: q(`syl1CxqTK`) },
                                   },
                                   children: /*#__PURE__*/ s(B, {
-                                    cO_7kDcz9: `The same four steps for every request, whether it turns into a new roof or a report that says leave it alone.`,
+                                    cO_7kDcz9: `Every home and project is different. A clear renovation plan should set out your priorities, scope, material choices, and next steps before work begins.`,
                                     GVGapXMTF: `After you press the button`,
                                     height: `100%`,
                                     iBbAGSAx0: `All building notes`,
@@ -1793,7 +1793,7 @@ function xn() {
                                         oZndJFlUW: { variant: q(`MNTYMm47m`) },
                                       },
                                       children: /*#__PURE__*/ s(V, {
-                                        fgmaQTdQF: `Hannah or one of the office team rings to confirm the slot and ask a couple of questions about access and the attic hatch.`,
+                                        fgmaQTdQF: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
                                         height: `100%`,
                                         id: `MvObR9bc7`,
                                         kmJWzLIXH: `We call to confirm`,
@@ -1831,10 +1831,10 @@ function xn() {
                                         oZndJFlUW: { variant: q(`MNTYMm47m`) },
                                       },
                                       children: /*#__PURE__*/ s(V, {
-                                        fgmaQTdQF: `Every slope, the attic and the gutters. You do not need to be on the roof, and you only need to be home if we need the attic.`,
+                                        fgmaQTdQF: `Compare renovation materials and finishes for appearance, care, durability, and suitability for the home. Confirm selections as part of the project scope.`,
                                         height: `100%`,
                                         id: `rmnI84zjS`,
-                                        kmJWzLIXH: `45 minutes at the house`,
+                                        kmJWzLIXH: `Renovation planning`,
                                         layoutId: `rmnI84zjS`,
                                         style: { width: `100%` },
                                         UmQRyzSMX: `Inspection day`,
@@ -1875,7 +1875,7 @@ function xn() {
                                         kmJWzLIXH: `Your photo report`,
                                         layoutId: `UUHM3dPy7`,
                                         style: { width: `100%` },
-                                        UmQRyzSMX: `Within 24 hours`,
+                                        UmQRyzSMX: `Renovation planning`,
                                         variant: q(`lx7sCevri`),
                                         width: `100%`,
                                       }),
@@ -1907,13 +1907,13 @@ function xn() {
                                         oZndJFlUW: { variant: q(`MNTYMm47m`) },
                                       },
                                       children: /*#__PURE__*/ s(V, {
-                                        fgmaQTdQF: `Every line priced. It is valid for 30 days, and nobody calls to chase you.`,
+                                        fgmaQTdQF: `Every home and project is different. A clear renovation plan should set out your priorities, scope, material choices, and next steps before work begins.`,
                                         height: `100%`,
                                         id: `oTHuzCrRD`,
-                                        kmJWzLIXH: `A fixed price, if you want one`,
+                                        kmJWzLIXH: `Plan a home renovation`,
                                         layoutId: `oTHuzCrRD`,
                                         style: { width: `100%` },
-                                        UmQRyzSMX: `Within 48 hours`,
+                                        UmQRyzSMX: `Renovation planning`,
                                         variant: q(`lx7sCevri`),
                                         width: `100%`,
                                       }),
@@ -1999,7 +1999,7 @@ function xn() {
                                         className: `framer-styles-preset-1eflcgp`,
                                         "data-styles-preset": `vI2CBrBs4`,
                                         dir: `auto`,
-                                        children: `Every town within half an hour of the yard. We go further for slate and heritage work, so call if you are just outside.`,
+                                        children: `Compare renovation materials and finishes for appearance, care, durability, and suitability for the home. Confirm selections as part of the project scope.`,
                                       }),
                                     }),
                                     className: `framer-b9o6b2`,
@@ -2090,7 +2090,7 @@ function xn() {
                                                 style: {
                                                   "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                 },
-                                                children: `Home of the yard on Tanner Road`,
+                                                children: `Serving the Ashford Valley. Contact us to discuss meeting arrangements.`,
                                               }),
                                             }),
                                             className: `framer-ejs7ve`,
@@ -2162,7 +2162,7 @@ function xn() {
                                                 style: {
                                                   "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                 },
-                                                children: `Slate, cedar and stone cottages`,
+                                                children: `Renovation materials and finishes`,
                                               }),
                                             }),
                                             className: `framer-jv2nrw`,
@@ -2378,7 +2378,7 @@ function xn() {
                                                 style: {
                                                   "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                 },
-                                                children: `Storm and hail claims`,
+                                                children: `Planning your home project`,
                                               }),
                                             }),
                                             className: `framer-1q5s0mm`,

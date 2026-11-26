@@ -6,11 +6,11 @@ function t(e, t) {
       { hash: `l7ar1c`, mediaQuery: `(min-width: 810px) and (max-width: 1199.98px)` },
       { hash: `m1nlci`, mediaQuery: `(max-width: 809.98px)` },
     ],
-    description: `Estimate a new roof in the Ashford Valley in five steps: footprint, stories, pitch, layers and material. Guide price range with every line shown, then a fixed price after a free inspection.`,
+    description: `Contact us to discuss your project. Scope, estimates, and scheduling are confirmed after consultation.`,
     elements: {},
     robots: `max-image-preview:large`,
     serializationId: `framer-WKjPi`,
-    title: `Roof cost estimator · Regolith Construction`,
+    title: `Renovation planning · Regolith Construction`,
     viewport: `width=device-width`,
   };
 }

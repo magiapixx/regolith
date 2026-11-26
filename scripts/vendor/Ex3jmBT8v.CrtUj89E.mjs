@@ -6,7 +6,7 @@ function t(e, t) {
       { hash: `3le204`, mediaQuery: `(min-width: 810px) and (max-width: 1199.98px)` },
       { hash: `64wl7e`, mediaQuery: `(max-width: 809.98px)` },
     ],
-    description: `Regolith Construction is a family-run crew of 24 roofers working from the same Tanner Road yard since 2004. How we work, the crew, the yard, the towns we cover and the 25-year warranty.`,
+    description: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
     elements: { pVBxU_LCv: `crew` },
     robots: `max-image-preview:large`,
     serializationId: `framer-TlhGs`,

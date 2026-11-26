@@ -473,7 +473,7 @@ function Et() {
                                     }),
                                   }),
                                   className: `framer-17z3j5l`,
-                                  "data-framer-name": `Roof notes`,
+                                  "data-framer-name": `Renovation Notes`,
                                   fonts: [`Inter`],
                                   verticalAlignment: `top`,
                                   withExternalLayout: !0,
@@ -513,7 +513,7 @@ function Et() {
                                           style: {
                                             "--framer-text-color": `var(--token-69114513-f0b1-40e3-b0f0-b5943b0445f9)`,
                                           },
-                                          children: `The 20-minute autumn check that saves most roofs a repair`,
+                                          children: `Preparing your home for renovation`,
                                         }),
                                       }),
                                     },
@@ -526,7 +526,7 @@ function Et() {
                                           style: {
                                             "--framer-text-color": `var(--token-69114513-f0b1-40e3-b0f0-b5943b0445f9)`,
                                           },
-                                          children: `The 20-minute autumn check that saves most roofs a repair`,
+                                          children: `Preparing your home for renovation`,
                                         }),
                                       }),
                                     },
@@ -820,7 +820,7 @@ function Et() {
                                                                       style: {
                                                                         "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                                       },
-                                                                      children: `Foreman · Crew 3`,
+                                                                      children: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
                                                                     }),
                                                                   }),
                                                                 },
@@ -1054,7 +1054,7 @@ function Et() {
                                               (l ??= ``),
                                               (a ??= ``),
                                               (e ??= ``));
-                                            let u = yt(W(l, ` at Halden since `), `. `);
+                                            let u = yt(W(l, `Your Regolith project team can discuss priorities, project scope, and practical next steps.`), `. `);
                                             return /*#__PURE__*/ c(
                                               d,
                                               {
@@ -1121,7 +1121,7 @@ function Et() {
                                                                           style: {
                                                                             "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                                           },
-                                                                          children: `Foreman · Crew 3`,
+                                                                          children: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
                                                                         }
                                                                       ),
                                                                     }),
@@ -1162,7 +1162,7 @@ function Et() {
                                                                           style: {
                                                                             "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                                           },
-                                                                          children: ` at Halden since 2015. `,
+                                                                          children: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
                                                                         }
                                                                       ),
                                                                     }),
@@ -1178,11 +1178,11 @@ function Et() {
                                                                       style: {
                                                                         "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                                       },
-                                                                      children: ` at Halden since . `,
+                                                                      children: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
                                                                     }),
                                                                   }),
                                                                   className: `framer-tb9wp2`,
-                                                                  "data-framer-name": `Since`,
+                                                                  "data-framer-name": `Project`,
                                                                   fonts: [`Inter`],
                                                                   text: u,
                                                                   verticalAlignment: `top`,
@@ -1203,7 +1203,7 @@ function Et() {
                                                                           style: {
                                                                             "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                                           },
-                                                                          children: `Eleven years with Halden and the foreman on most of the Millbrook re-roofs. Dee writes the daily build log texts and does the final walkthrough with every homeowner.`,
+                                                                          children: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
                                                                         }
                                                                       ),
                                                                     }),
@@ -1266,7 +1266,7 @@ function Et() {
                     }),
                     /*#__PURE__*/ c(f.section, {
                       className: `framer-1lc5ipm`,
-                      "data-framer-name": `More Roof Notes`,
+                      "data-framer-name": `Renovation planning`,
                       layout: P,
                       children: /*#__PURE__*/ s(`div`, {
                         className: `framer-60v868`,
@@ -1313,7 +1313,7 @@ function Et() {
                                       },
                                       children: /*#__PURE__*/ c(F, {
                                         AWeBIsUcD: e[0],
-                                        cO_7kDcz9: `Explore support for new homes, extensions and renovations. Start with the work you have in mind.`,
+                                        cO_7kDcz9: `Explore whole-home renovations, kitchen and bathroom updates, extensions, interior finishing, exterior improvements, and consultation.`,
                                         GVGapXMTF: `More building notes`,
                                         height: `100%`,
                                         iBbAGSAx0: `All building notes`,
@@ -1496,7 +1496,7 @@ function Et() {
                                   },
                                   children: /*#__PURE__*/ c(L, {
                                     c90VE0r4p: !0,
-                                    egt2DgeHC: `Discuss your project. We will check everything in this note and send you the photos within 24 hours.`,
+                                    egt2DgeHC: `Every home and project is different. A clear renovation plan should set out your priorities, scope, material choices, and next steps before work begins.`,
                                     eWOxqccVh: `tel:+14065550142`,
                                     height: `100%`,
                                     id: `DDxJQMI22`,
@@ -1508,7 +1508,7 @@ function Et() {
                                     style: { width: `100%` },
                                     V_MeO9hxh: `Discuss your project`,
                                     variant: Y(`V3cWFf9iM`),
-                                    VtZC0VDH4: `(Free inspection)`,
+                                    VtZC0VDH4: `Plan a home renovation`,
                                     width: `100%`,
                                     Y7gwfGTSN: bt(
                                       {
@@ -1587,7 +1587,7 @@ function Et() {
         `@media (max-width: 809.98px) { .framer-Mk43u.framer-1pbpw2x { width: 390px; } .framer-Mk43u .framer-1lfnpad { padding: 143px 0px 28px 0px; } .framer-Mk43u .framer-8lkmqf { padding: 0px 16px 0px 16px; } .framer-Mk43u .framer-1qe8wiw { height: 28px; } .framer-Mk43u .framer-zpfczt { padding: 0px 8px 0px 8px; } .framer-Mk43u .framer-1uzvval { aspect-ratio: 1.3333 / 1; border-bottom-left-radius: 16px; border-bottom-right-radius: 16px; border-top-left-radius: 16px; border-top-right-radius: 16px; } .framer-Mk43u .framer-tl6oyc { padding: 48px 0px 0px 0px; } .framer-Mk43u .framer-d6kibz { flex-direction: column; gap: 40px; padding: 0px 16px 0px 16px; } .framer-Mk43u .framer-1px0s5g { flex: none; max-width: 520px; position: relative; width: 100%; } .framer-Mk43u .framer-yvimw5, .framer-Mk43u .framer-w489w8 { flex: none; width: 100%; } .framer-Mk43u .framer-108ll2p { height: 48px; } .framer-Mk43u .framer-vao4bs { flex-direction: column; } .framer-Mk43u .framer-1lc5ipm { padding: 80px 0px 80px 0px; } .framer-Mk43u .framer-60v868 { gap: 40px; padding: 0px 16px 0px 16px; } .framer-Mk43u .framer-tn68pj { gap: 16px; grid-template-columns: repeat(1, minmax(50px, 1fr)); } .framer-Mk43u .framer-1cc350 { padding: 12px 8px 0px 8px; }}`,
       ]),
       ($ = _(Ct, wt, `framer-Mk43u`)),
-      ($.displayName = `Roof note`),
+      ($.displayName = `Renovation planning`),
       ($.defaultProps = { height: 6129, width: 1200 }),
       ie(
         $,

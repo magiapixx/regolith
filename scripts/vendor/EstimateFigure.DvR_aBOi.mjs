@@ -360,44 +360,25 @@ function z() {
   }))();
 }
 function B(e, t, n, r, i) {
-  let a = Math.min(4e3, Math.max(800, Number(e) || 1800)),
-    o = H[String(n).toLowerCase()] ?? (Number(n) || 1.18),
-    s = U[String(t).replace(/\D/g, ``)] ?? 1.08,
-    c = String(r).toLowerCase(),
-    l = c === `none` ? 0 : Number(c.replace(/\D/g, ``)) || 0,
-    u = Number(i) || 0,
-    d = Math.ceil((a * o * 1.12) / 100),
-    f = d * u * s,
-    p = d * W * l,
-    m = f + p + G,
-    h = Math.round((m * 0.92) / 100) * 100,
-    g = Math.round((m * 1.15) / 100) * 100,
-    _ = Math.max(1, Math.round(d / (u > 1300 ? 4 : u > 800 ? 8 : 10))),
-    v = d * u,
-    y = Number(String(t).replace(/\D/g, ``)) || 2;
+  const area = Math.max(0, Math.round(Number(e) || 0));
+  const areaText = area.toLocaleString("en-US");
   return {
-    base: Q(v),
-    story: y === 1 ? `None` : `+` + Q(f - v),
-    storyNote:
-      y === 1
-        ? `Single story`
-        : `${y} stories: +${Math.round((s - 1) * 100)}% for access and safety`,
-    tearNote: l
-      ? `${d} squares \xd7 $${W} \xd7 ${l} layer${l > 1 ? `s` : ``}`
-      : `No existing layer to remove`,
-    sqNote: `${a.toLocaleString(`en-US`)} sq ft \xd7 ${o} pitch \xd7 1.12 overhangs \xf7 100`,
-    matNote: `${d} squares \xd7 ${Q(u)} per square`,
-    fixed: Q(G),
-    mid: Q(m),
-    low: Q(h),
-    high: Q(g),
-    squares: `${d} squares`,
-    materials: Q(f),
-    tearoff: l ? Q(p) : `None`,
-    days: `${_}–${_ + 1} days`,
+    base: "Project scope",
+    story: "Discuss access",
+    storyNote: "Number of levels and access can affect project planning.",
+    tearNote: "Tell us if existing finishes or fixtures may need removal.",
+    sqNote: areaText + " sq ft area to discuss",
+    matNote: "Material and finish choices to discuss.",
+    fixed: "Project-specific",
+    mid: "Scope to discuss",
+    low: "Project planning",
+    high: "your home",
+    squares: areaText + " sq ft",
+    materials: "Finishes to discuss",
+    tearoff: "Existing conditions",
+    days: "Schedule depends on project scope",
   };
-}
-function V(e) {
+}function V(e) {
   let {
       area: t = 1800,
       stories: n = `2`,
@@ -411,7 +392,7 @@ function V(e) {
     } = e,
     f = X() ?? t;
   if (o === `slider`) {
-    let { trackColor: t = `#e9e6df`, fillColor: n = `#141517`, thumbColor: r = `#ddf247` } = e,
+    let { trackColor: t = `#e9e6df`, fillColor: n = `#141517`, thumbColor: r = `#d8e9ff` } = e,
       i = Math.min(4e3, Math.max(800, Number(f) || 1800));
     return /*#__PURE__*/ s(`div`, {
       style: {
@@ -601,8 +582,8 @@ function $() {
           optionTitles: [
             `Low price`,
             `High price`,
-            `Roof area`,
-            `Materials & install`,
+            `Approximate project area`,
+            `Materials and finishes`,
             `Tear-off`,
             `Days on site`,
             `Footprint slider`,
@@ -610,7 +591,7 @@ function $() {
             `Height and access`,
             `Height note`,
             `Tear-off note`,
-            `Roof area note`,
+            `Project area note`,
             `Materials note`,
             `Fixed costs`,
             `Midpoint`,
@@ -637,7 +618,7 @@ function $() {
           type: S.String,
           title: `Pitch`,
           defaultValue: `Medium`,
-          description: `Low, Medium or Steep`,
+          description: `Small, Medium or Large`,
         },
         layers: {
           type: S.String,
@@ -689,7 +670,7 @@ function $() {
         thumbColor: {
           type: S.Color,
           title: `Thumb`,
-          defaultValue: `#ddf247`,
+          defaultValue: `#d8e9ff`,
           hidden: (e) => e.output !== `slider`,
         },
       }));

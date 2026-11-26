@@ -3366,7 +3366,7 @@ function $() {
           control: {
             controls: {
               d1Jw9SToa: { defaultValue: ``, title: `Area`, type: `string` },
-              ycDPu_uIt: { defaultValue: ``, title: `Gutter`, type: `string` },
+              ycDPu_uIt: { defaultValue: ``, title: `Exterior improvements`, type: `string` },
               ETF95scMJ: { defaultValue: ``, title: `Downspouts`, type: `string` },
             },
             type: `object`,
@@ -3381,7 +3381,7 @@ function $() {
           __vekterDefault: [],
           control: {
             controls: {
-              oZub02rfy: { defaultValue: ``, title: `Attic`, type: `string` },
+              oZub02rfy: { defaultValue: ``, title: `Interior space`, type: `string` },
               zWxhxqyFe: { defaultValue: ``, title: `Net Area`, type: `string` },
               LolJHH4hA: { defaultValue: ``, title: `Roughly`, type: `string` },
             },

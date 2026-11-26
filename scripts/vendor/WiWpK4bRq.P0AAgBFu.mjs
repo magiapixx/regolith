@@ -6,7 +6,7 @@ function t(e, t) {
       { hash: `x01qap`, mediaQuery: `(min-width: 810px) and (max-width: 1199.98px)` },
       { hash: `ajbctb`, mediaQuery: `(max-width: 809.98px)` },
     ],
-    description: `Recent Regolith Roofing jobs across the Ashford Valley with inspection findings, written quotes against final invoices and day-by-day build logs. Filter by material, service and town.`,
+    description: `Illustrative renovation concept only; not completed Regolith work.`,
     elements: {},
     robots: `max-image-preview:large`,
     serializationId: `framer-k7laL`,

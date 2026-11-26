@@ -6,7 +6,7 @@ function t(e, t) {
       { hash: `1ybqe6v`, mediaQuery: `(min-width: 810px) and (max-width: 1199.98px)` },
       { hash: `oregwr`, mediaQuery: `(max-width: 809.98px)` },
     ],
-    description: `Architectural shingle, standing seam steel, stone-coated steel tile, natural slate, clay tile and cedar shake compared: lifespan, wind rating, weight, cost per square and what each is best for.`,
+    description: `Compare renovation materials and finishes for appearance, care, durability, and suitability for the home. Confirm selections as part of the project scope.`,
     elements: {
       bYmtst5yg: `compare`,
       G9NXKN7_m: `standing-seam-steel`,
@@ -18,7 +18,7 @@ function t(e, t) {
     },
     robots: `max-image-preview:large`,
     serializationId: `framer-plIBW`,
-    title: `Roofing materials compared · Regolith Construction`,
+    title: `Renovation materials & finishes · Regolith Construction`,
     viewport: `width=device-width`,
   };
 }

@@ -419,7 +419,7 @@ function Wt() {
           kt = i(null),
           Z = Pt(A),
           Q = Pt(j),
-          $ = Ft(k, `Foreman: `);
+          $ = Ft(k, `Your Regolith project team can discuss priorities, project scope, and practical next steps.`);
         return (
           pe({}),
           /*#__PURE__*/ c(fe.Provider, {
@@ -658,7 +658,7 @@ function Wt() {
                                           "--framer-line-height": `1.4653em`,
                                           "--framer-text-color": `var(--token-69114513-f0b1-40e3-b0f0-b5943b0445f9)`,
                                         },
-                                        children: `The owners called about a brown stain spreading across a bedroom ceiling under the main chimney. The roof was 22 years old, the south slope had lost most of its granules, and two earlier repairs had been done with roofing cement smeared over the flashing.`,
+                                        children: `Illustrative renovation concept only; not completed Regolith work.`,
                                       }),
                                     }),
                                     className: `framer-1bc2hzz`,
@@ -721,7 +721,7 @@ function Wt() {
                                           "--framer-line-height": `1.4653em`,
                                           "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                         },
-                                        children: `They wanted to know whether a flashing repair would buy them five more years. Ray walked the roof, the attic and the gutters and the answer was no: the chimney could be fixed, but the south slope was at the end of its life and would be leaking somewhere else within two winters.`,
+                                        children: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
                                       }),
                                     }),
                                     className: `framer-1yir2ju`,
@@ -938,7 +938,7 @@ function Wt() {
                                                 style: {
                                                   "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                 },
-                                                children: `Foreman`,
+                                                children: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
                                               }),
                                             }),
                                             className: `framer-1820pnd`,
@@ -985,7 +985,7 @@ function Wt() {
                                                 style: {
                                                   "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                 },
-                                                children: `Crew`,
+                                                children: `Team`,
                                               }),
                                             }),
                                             className: `framer-hc3r1o`,
@@ -1133,7 +1133,7 @@ function Wt() {
                                           "--framer-text-alignment": `start`,
                                           "--framer-text-color": `var(--token-e01d697e-3f2d-4c98-82a6-209979abd898)`,
                                         },
-                                        children: `36 photos, 3 findings, one plain answer`,
+                                        children: `A sample scope, planning notes, and next steps`,
                                       }),
                                     }),
                                     className: `framer-1o4onaz`,
@@ -1194,7 +1194,7 @@ function Wt() {
                                                   height: `100%`,
                                                   id: `OyrY9l6wK`,
                                                   layoutId: `OyrY9l6wK`,
-                                                  MhS8NN9mH: `Replace`,
+                                                  MhS8NN9mH: `Refresh`,
                                                   variant: G(`RoSFAKVtM`),
                                                   width: `100%`,
                                                 }),
@@ -1240,7 +1240,7 @@ function Wt() {
                                                   height: `100%`,
                                                   id: `e_B9U05fU`,
                                                   layoutId: `e_B9U05fU`,
-                                                  MhS8NN9mH: `Repair`,
+                                                  MhS8NN9mH: `Update`,
                                                   variant: G(`H1c_2bJQt`),
                                                   width: `100%`,
                                                 }),
@@ -1286,7 +1286,7 @@ function Wt() {
                                                   height: `100%`,
                                                   id: `Ey6ujj5aZ`,
                                                   layoutId: `Ey6ujj5aZ`,
-                                                  MhS8NN9mH: `Watch`,
+                                                  MhS8NN9mH: `Plan`,
                                                   variant: G(`wOdnkuJ4c`),
                                                   width: `100%`,
                                                 }),
@@ -1352,7 +1352,7 @@ function Wt() {
                                                 style: {
                                                   "--framer-text-color": `var(--token-69114513-f0b1-40e3-b0f0-b5943b0445f9)`,
                                                 },
-                                                children: `Inspection report`,
+                                                children: `Project planning notes`,
                                               }),
                                             }),
                                             className: `framer-170yoyb`,
@@ -1374,7 +1374,7 @@ function Wt() {
                                                     style: {
                                                       "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                     },
-                                                    children: `HR-2417 · 14 Birch Row, Millbrook`,
+                                                    children: `Illustrative project · Ashford Valley`,
                                                   }),
                                                 }),
                                               },
@@ -1387,7 +1387,7 @@ function Wt() {
                                                     style: {
                                                       "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                     },
-                                                    children: `HR-2417 · 14 Birch Row, Millbrook`,
+                                                    children: `Illustrative project · Ashford Valley`,
                                                   }),
                                                 }),
                                               },
@@ -1483,7 +1483,7 @@ function Wt() {
                                                                     "--framer-line-height": `1.5273em`,
                                                                     "--framer-text-color": `var(--token-e01d697e-3f2d-4c98-82a6-209979abd898)`,
                                                                   },
-                                                                  children: `P-03 South slope`,
+                                                                  children: `Project area`,
                                                                 }),
                                                               }),
                                                               className: `framer-6x9gry`,
@@ -1566,7 +1566,7 @@ function Wt() {
                                                                 height: `100%`,
                                                                 id: `DvThY5wCZ`,
                                                                 layoutId: `DvThY5wCZ`,
-                                                                MhS8NN9mH: `Repair`,
+                                                                MhS8NN9mH: `Update`,
                                                                 variant: G(`eQRQxpao6`),
                                                                 width: `100%`,
                                                               }),
@@ -1583,7 +1583,7 @@ function Wt() {
                                                                 height: `100%`,
                                                                 id: `zvwfjz96s`,
                                                                 layoutId: `zvwfjz96s`,
-                                                                MhS8NN9mH: `Replace`,
+                                                                MhS8NN9mH: `Refresh`,
                                                                 variant: G(`j_vo0vLAX`),
                                                                 width: `100%`,
                                                               }),
@@ -1600,7 +1600,7 @@ function Wt() {
                                                                 height: `100%`,
                                                                 id: `f5R2nfpVq`,
                                                                 layoutId: `f5R2nfpVq`,
-                                                                MhS8NN9mH: `Watch`,
+                                                                MhS8NN9mH: `Plan`,
                                                                 variant: G(`YtA3u7xS9`),
                                                                 width: `100%`,
                                                               }),
@@ -1673,7 +1673,7 @@ function Wt() {
                                                           style: {
                                                             "--framer-text-color": `var(--token-69114513-f0b1-40e3-b0f0-b5943b0445f9)`,
                                                           },
-                                                          children: `Granule loss across 60% of south slope, shingles 22 years old`,
+                                                          children: `Renovation planning`,
                                                         }),
                                                       }),
                                                       className: `framer-1jzodss`,
@@ -1707,7 +1707,7 @@ function Wt() {
                                                     style: {
                                                       "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                     },
-                                                    children: `36 photos · 3 findings`,
+                                                    children: `Project planning notes`,
                                                   }),
                                                 }),
                                               },
@@ -1720,7 +1720,7 @@ function Wt() {
                                                     style: {
                                                       "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                     },
-                                                    children: `36 photos · 3 findings`,
+                                                    children: `Project planning notes`,
                                                   }),
                                                 }),
                                               },
@@ -1758,7 +1758,7 @@ function Wt() {
                                                     style: {
                                                       "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                     },
-                                                    children: `Inspected by R. Halden`,
+                                                    children: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
                                                   }),
                                                 }),
                                               },
@@ -1771,7 +1771,7 @@ function Wt() {
                                                     style: {
                                                       "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                     },
-                                                    children: `Inspected by R. Halden`,
+                                                    children: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
                                                   }),
                                                 }),
                                               },
@@ -1922,7 +1922,7 @@ function Wt() {
                                                   style: {
                                                     "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                   },
-                                                  children: `Q-2417 · fixed price`,
+                                                  children: `Plan a home renovation`,
                                                 }),
                                               }),
                                             },
@@ -1935,7 +1935,7 @@ function Wt() {
                                                   style: {
                                                     "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                   },
-                                                  children: `Q-2417 · fixed price`,
+                                                  children: `Plan a home renovation`,
                                                 }),
                                               }),
                                             },
@@ -2367,7 +2367,7 @@ function Wt() {
                                                         "--framer-line-height": `1.6em`,
                                                         "--framer-text-color": `var(--token-69114513-f0b1-40e3-b0f0-b5943b0445f9)`,
                                                       },
-                                                      children: `Fixed price`,
+                                                      children: `Estimate after consultation`,
                                                     }),
                                                   }),
                                                   className: `framer-16h3ck2`,
@@ -2392,7 +2392,7 @@ function Wt() {
                                                         "--framer-text-alignment": `end`,
                                                         "--framer-text-color": `var(--token-69114513-f0b1-40e3-b0f0-b5943b0445f9)`,
                                                       },
-                                                      children: `Fixed Price`,
+                                                      children: `Estimate after consultation`,
                                                     }),
                                                   }),
                                                   className: `framer-1v15p25`,
@@ -2936,7 +2936,7 @@ function Wt() {
                                                   style: {
                                                     "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                   },
-                                                  children: `Job 2417 · Crew 3 · 6 roofers`,
+                                                  children: `Illustrative renovation concept only; not completed Regolith work.`,
                                                 }),
                                               }),
                                             },
@@ -2949,7 +2949,7 @@ function Wt() {
                                                   style: {
                                                     "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                   },
-                                                  children: `Job 2417 · Crew 3 · 6 roofers`,
+                                                  children: `Illustrative renovation concept only; not completed Regolith work.`,
                                                 }),
                                               }),
                                             },
@@ -3163,7 +3163,7 @@ function Wt() {
                                                   style: {
                                                     "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                   },
-                                                  children: `Foreman: Dee Marsh`,
+                                                  children: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
                                                 }),
                                               }),
                                             },
@@ -3176,7 +3176,7 @@ function Wt() {
                                                   style: {
                                                     "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                   },
-                                                  children: `Foreman: Dee Marsh`,
+                                                  children: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
                                                 }),
                                               }),
                                             },
@@ -3191,7 +3191,7 @@ function Wt() {
                                                 style: {
                                                   "--framer-text-color": `var(--token-361b0604-f4ca-45c0-a5a9-5a63448ece97)`,
                                                 },
-                                                children: `Foreman: `,
+                                                children: `Your Regolith project team can discuss priorities, project scope, and practical next steps.`,
                                               }),
                                             }),
                                             className: `framer-1niusnx`,
@@ -3368,7 +3368,7 @@ function Wt() {
                                 }),
                                 /*#__PURE__*/ s(`div`, {
                                   className: `framer-r0u9mk`,
-                                  "data-framer-name": `Warranty`,
+                                  "data-framer-name": `Project terms`,
                                   children: [
                                     /*#__PURE__*/ c(C, {
                                       __fromCanvasComponent: !0,
@@ -3410,7 +3410,7 @@ function Wt() {
                                                 "--framer-line-height": `1.35em`,
                                                 "--framer-text-color": `var(--token-69114513-f0b1-40e3-b0f0-b5943b0445f9)`,
                                               },
-                                              children: `Workmanship warranty`,
+                                              children: `Plan a home renovation`,
                                             }),
                                           }),
                                           className: `framer-1n4u8c5`,
@@ -3776,7 +3776,7 @@ function Wt() {
                                   },
                                   children: /*#__PURE__*/ c(F, {
                                     c90VE0r4p: !0,
-                                    egt2DgeHC: `Every job starts with a free inspection. The report reaches you within 24 hours and the fixed price within 48.`,
+                                    egt2DgeHC: `A project estimate should describe the agreed scope, material choices, allowances, exclusions, and next steps. Discuss details for your home with the team.`,
                                     eWOxqccVh: `tel:+14065550142`,
                                     height: `100%`,
                                     id: `qlNb8WpD9`,
@@ -3788,7 +3788,7 @@ function Wt() {
                                     style: { width: `100%` },
                                     V_MeO9hxh: `Discuss your project`,
                                     variant: G(`V3cWFf9iM`),
-                                    VtZC0VDH4: `(Free inspection)`,
+                                    VtZC0VDH4: `Plan a home renovation`,
                                     width: `100%`,
                                     Y7gwfGTSN: Rt(
                                       {

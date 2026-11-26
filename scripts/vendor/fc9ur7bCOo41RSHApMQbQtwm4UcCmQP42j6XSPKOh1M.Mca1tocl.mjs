@@ -471,7 +471,7 @@ function $() {
                                           "--framer-line-height": `1.6168em`,
                                           "--framer-text-color": `var(--token-69114513-f0b1-40e3-b0f0-b5943b0445f9)`,
                                         },
-                                        children: `Roofing cost guide`,
+                                        children: `Renovation planning guide`,
                                       }),
                                     }),
                                     className: `framer-173rbrn`,
